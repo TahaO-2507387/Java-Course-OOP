@@ -10,3 +10,6 @@ Zulke restricties of mogelijkheden binnen een taal richten de programmeurs naar 
 - Declaratief
 - Functioneel
 Geen van deze paradigma's zijn beter dan het ander, ze hebben elk hun voordelen en nadelen afhankelijk van wat je doel is.
+
+Correction: Talen kunnen ook multi-paradigma zijn. Het is dus niet per se de taal die een restrictie zet, maar ook de persoonlijke voorkeur
+of programmeerstijl van een programmeur. Talen maken simpelweg bepaalde paradigma's mogelijk of onmogelijk.

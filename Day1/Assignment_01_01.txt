@@ -4,3 +4,7 @@ on your current knowledge!
 Answer: Een programmeertaal is een middel om te communiceren met de computerhardware. Moderne programmeertalen zijn meestal high-level,
 dat betekent dat ze "leesbaar" zijn door mensen maar moeten omgezet worden naar machinecode (binair). Je kunt in programmeertaal wiskunde, logica
 en functies gebruiken om samen een groter geheel te vormen dat grotere problemen kan oplossen.
+
+Correction: "en programmeertaal is een middel om te communiceren met de computerhardware." is te specifiek. Een programmeertaal is een middel die door
+een programmeur gebruikt kan worden om een reeks instructies en berekeningen te laten uitvoeren door een computer. Het is ook niet dat alle talen
+rechtstreeks naar binair worden omgezet, er zijn ook interpreted languages zoals Java en Python.
