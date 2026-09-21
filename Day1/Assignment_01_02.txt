@@ -1,0 +1,12 @@
+What is a programming paradigm? Style of programming that influences the way
+code execution happens and that is characterized by the elements used in the programming language
+(with/without variables, functions, objects,…)
+
+Answer: Een programmeerparadigma is een manier van programmeren. Het is meestal beinvloed door de specifieke programmeertaal die gebruikt wordt.
+Dat komt doordat programmeertalen bepaalde functionaliteiten aanbieden en bepaalde functionaliteiten NIET aanbieden. Zoals het maken van klassen.
+Zulke restricties of mogelijkheden binnen een taal richten de programmeurs naar een bepaalde stijl van programmeren. Mogelijke paradigma's zijn:
+- Imperatief
+- Object-georienteerd
+- Declaratief
+- Functioneel
+Geen van deze paradigma's zijn beter dan het ander, ze hebben elk hun voordelen en nadelen afhankelijk van wat je doel is.

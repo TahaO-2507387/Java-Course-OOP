@@ -1,0 +1,6 @@
+What is a programming language? Describe what a programming language is based
+on your current knowledge!
+
+Answer: Een programmeertaal is een middel om te communiceren met de computerhardware. Moderne programmeertalen zijn meestal high-level,
+dat betekent dat ze "leesbaar" zijn door mensen maar moeten omgezet worden naar machinecode (binair). Je kunt in programmeertaal wiskunde, logica
+en functies gebruiken om samen een groter geheel te vormen dat grotere problemen kan oplossen.
